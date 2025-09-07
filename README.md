@@ -34,11 +34,12 @@ NeerTrace is a **real-time water quality monitoring tool** built with Streamlit.
 Watch the live demo here: https://drive.google.com/file/d/1QdDZyiQ4teUWuJWPTuttPOzzMSokjd6i/view?usp=sharing 
 
 **Screenshots included in the repo:**
-1. CSV upload and main interface  
-2. Computed indices table (PLI, HMPI, CF, Igeo)  
-3. Color-coded map with sample points  
-4. Manual entry with banner and computed results  
-5. Single-sample analysis with mini map & download button
+1. CSV upload and main interface  ![CSV Upload](screenshots/csvupload_and_mainInterface.png)
+2. Computed indices table (PLI, HMPI, CF, Igeo)  ![Indices Table](screenshots/computedindicestable.png)  
+3. Color-coded map with sample points ![Map with Samples](screenshots/colorcodedmap.png) 
+4. Manual entry ![Manual Entry](screenshots/manualentry.png)  
+5. Banner and Results ![Results](screenshots/bannerandresults.png)  
+6. Single-sample analysis with mini map & download button ![Banner Results](screenshots/minimap.png)  
 
 
 🧩 Why NeerTrace?
