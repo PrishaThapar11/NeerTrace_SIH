@@ -1,0 +1,35 @@
+{
+  "units": "µg/L",
+  "metal_columns": ["arsenic_ugL", "lead_ugL", "cadmium_ugL", "chromium_ugL", "mercury_ugL"],
+  "optional_metal_columns": ["nickel_ugL", "copper_ugL", "zinc_ugL"],
+  "background_values": {
+    "arsenic_ugL": 10.0,
+    "lead_ugL": 10.0,
+    "cadmium_ugL": 3.0,
+    "chromium_ugL": 50.0,
+    "mercury_ugL": 6.0,
+    "nickel_ugL": null,
+    "copper_ugL": null,
+    "zinc_ugL": null
+  },
+  "pli_thresholds": {
+    "unpolluted": 1.0,
+    "moderate": 2.0,
+    "high": 3.0
+  },
+  "standard_values": {
+  "arsenic_ugL": 10.0,
+  "lead_ugL": 10.0,
+  "cadmium_ugL": 3.0,
+  "chromium_ugL": 50.0,
+  "mercury_ugL": 6.0
+},
+"ideal_values": {
+  "arsenic_ugL": 0.0,
+  "lead_ugL": 0.0,
+  "cadmium_ugL": 0.0,
+  "chromium_ugL": 0.0,
+  "mercury_ugL": 0.0
+}
+
+}
