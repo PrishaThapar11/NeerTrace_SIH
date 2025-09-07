@@ -1,2 +1,46 @@
 # NeerTrace_SIH
 NeerTrace: Real-time water quality monitoring and heavy metal pollution analysis using Streamlit.
+
+# 🌊 NeerTrace
+
+ Detect. Visualize. Protect. 🛡️
+
+NeerTrace is a **real-time water quality monitoring tool** built with Streamlit. It helps researchers, environmentalists, and policymakers quickly **detect heavy metal contamination** in water and **visualize pollution levels** on interactive maps.  
+
+---
+
+## ⚡ Key Features
+
+- 📁 **Batch CSV Upload** – Upload real-world sensor or survey data instantly.  
+- 🔬 **Single-Sample Analysis** – Enter water sample data manually and get results immediately.  
+- 📊 **Pollution Indices Computed** – CF (Contamination Factor), Igeo (Geoaccumulation Index), PLI (Pollution Load Index), HMPI (Heavy Metal Pollution Index).  
+- 🗺️ **Interactive Maps** – Color-coded markers for pollution severity.  
+- 💾 **Downloadable Reports** – Export computed indices as CSV for research or reporting.  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python** – Core programming language  
+- **Streamlit** – Web app framework for interactive UI  
+- **Pandas & NumPy** – Data handling & computation  
+- **Folium** – Map visualization  
+- **GitHub** – Version control & collaboration  
+
+---
+
+## 🎬 Demo
+
+Watch the live demo here: https://drive.google.com/file/d/1QdDZyiQ4teUWuJWPTuttPOzzMSokjd6i/view?usp=sharing 
+
+**Screenshots included in the repo:**
+1. CSV upload and main interface  
+2. Computed indices table (PLI, HMPI, CF, Igeo)  
+3. Color-coded map with sample points  
+4. Manual entry with banner and computed results  
+5. Single-sample analysis with mini map & download button  
+
+---
+
+   git clone https://github.com/<your-username>/NeerTrace.git
+
