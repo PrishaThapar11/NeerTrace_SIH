@@ -38,7 +38,28 @@ Watch the live demo here: https://drive.google.com/file/d/1QdDZyiQ4teUWuJWPTuttP
 2. Computed indices table (PLI, HMPI, CF, Igeo)  
 3. Color-coded map with sample points  
 4. Manual entry with banner and computed results  
-5. Single-sample analysis with mini map & download button  
+5. Single-sample analysis with mini map & download button
+
+
+🧩 Why NeerTrace?
+
+NeerTrace is not just a project, it's a practical solution for environmental monitoring:
+
+Helps researchers analyze real-world water samples quickly.
+
+Supports decision-makers to spot pollution hotspots on a map.
+
+Allows local communities to visualize water quality near them.
+
+Computes scientifically-backed indices like CF, Igeo, PLI, HMPI for accurate pollution assessment.
+
+📂 Repository Structure
+NeerTrace/
+├─ streamlit_app.py      # Main app
+├─ hmpi_utils.py         # Pollution indices computation
+├─ requirements.txt      # Dependencies
+├─ assets/               # Icons, images, sample CSVs
+├─ README.md  
 
 ---
 
